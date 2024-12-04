@@ -1,5 +1,5 @@
 # New-Mexico-Botanical-Data-Synthesis
-This repo contains static scripts associated with the published synthesis of all botanical collections data from New Mexico (Lombardi, Faust and Marx; Ecosphere). Users should feel free to clone, download or otherwise up-cycle this work. 
+This repo contains static scripts associated with the published synthesis of all botanical collections data from New Mexico (Lombardi, Faust and Marx; *Ecosphere*). Users should feel free to clone, download or otherwise up-cycle this work. 
 
 ![Figure1_Main](https://github.com/user-attachments/assets/68e63af0-78de-466e-b31a-8c9a16f829be)
 
